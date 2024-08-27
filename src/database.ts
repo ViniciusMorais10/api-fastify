@@ -16,4 +16,4 @@ export const config: Knex.Config = {
 
 const knex = setupKnex(config)
 
-export {knex}
+export { knex }
